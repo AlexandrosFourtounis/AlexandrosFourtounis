@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [My portfolio website](TBA)
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Compilers , Cybersecurity and Data Science**
 
 - 📫 How to reach me **theadventurer2003@gmail.com**
 
