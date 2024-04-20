@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Compilers , Cybersecurity and Data Science**
 
-- 📫 How to reach me **theadventurer2003@gmail.com**
+- 📫 How to reach me **alexandrosfourtounis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
