@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [My portfolio website](https://alexandrosfourtounis.github.io)
 
-- 🌱 I’m currently learning **Compilers , Cybersecurity and Data Science**
+- 🌱 I’m currently learning **Cryptography**
 
 - 📫 How to reach me **alexandrosfourtounis@gmail.com**
 
