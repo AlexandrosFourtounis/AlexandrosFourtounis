@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexandros Fourtounis</h1>
 <h3 align="center">A passionate student currently studying Computer Science at the University of Crete, Greece.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandrosfourtounis&label=Profile%20views&color=0e75b6&style=flat" alt="alexandrosfourtounis" /> </p>
+
 
 - 🔭 I’m currently working on day-zero malicious domain detection.
 
